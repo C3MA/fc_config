@@ -1,3 +1,5 @@
+# This configuration has to be placed in $HOME/.fullcirclerc
+# 
 # running configuration of 29C3
 
 redisserver = 127.0.0.1
